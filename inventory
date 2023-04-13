@@ -1,0 +1,6 @@
+[managed_node_one]
+managed_node_one ansible_user=managed_node_one
+
+[managed_node_two]
+managed_node_two ansible_user=managed_node_two
+
